@@ -6138,13 +6138,22 @@ ul[class*="trx_addons_list"]>li:before{
 	margin-top: 30px;
 }
 .vc_custom_1501246792870 {
-	background-color: #fff !important;
+	background-color: #222222 !important;
 }
 .sc_layouts_row_type_compact .sc_layouts_logo img{
-	max-height: 90px;
+	height: 90px;
 }
-#contact{
+/* #contact{
 	display:none;
+} */
+.sc_form input[type="email"]{
+	width: 100%;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.scheme_dark .socials_wrap .social_item:hover .social_icon i, .scheme_dark .socials_wrap .social_item:hover .social_icon {
+    color: #CECC12 !important;
 }
 
 /*------------------------------------------------------*/
@@ -6176,12 +6185,7 @@ ul[class*="trx_addons_list"]>li:before{
        -moz-column-count: 1;
             column-count: 1;
 	}
-	.sc_form input[type="email"]{
-		width: 100%;
-		-webkit-box-sizing: border-box;
-		-ms-box-sizing: border-box;
-		box-sizing: border-box;
-	}
+	
 	
 }
 
