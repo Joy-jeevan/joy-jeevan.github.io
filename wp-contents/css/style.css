@@ -6137,6 +6137,15 @@ ul[class*="trx_addons_list"]>li:before{
 .trx_addons_list_success{
 	margin-top: 30px;
 }
+.vc_custom_1501246792870 {
+	background-color: #fff !important;
+}
+.sc_layouts_row_type_compact .sc_layouts_logo img{
+	max-height: 90px;
+}
+#contact{
+	display:none;
+}
 
 /*------------------------------------------------------*/
 /* RESPONSIVE
@@ -6167,6 +6176,13 @@ ul[class*="trx_addons_list"]>li:before{
        -moz-column-count: 1;
             column-count: 1;
 	}
+	.sc_form input[type="email"]{
+		width: 100%;
+		-webkit-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+	
 }
 
 
