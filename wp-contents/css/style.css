@@ -6158,6 +6158,9 @@ ul[class*="trx_addons_list"]>li:before{
 .vc_tta-title-text{
 	font-weight: bold;
 }
+.carousel-inner img{
+	max-height: 650px;
+}
 
 /*------------------------------------------------------*/
 /* RESPONSIVE
