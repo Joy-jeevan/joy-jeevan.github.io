@@ -6161,7 +6161,9 @@ ul[class*="trx_addons_list"]>li:before{
 .carousel-inner img{
 	max-height: 650px;
 }
-
+..sc_layouts_row_type_compact{
+	padding: 0px;
+}
 /*------------------------------------------------------*/
 /* RESPONSIVE
 /*------------------------------------------------------*/
