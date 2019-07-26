@@ -3652,8 +3652,7 @@ div.esg-pagination .esg-pagination-button.selected {
 .post_item_single > .post_featured {
 	margin-bottom:3em;
 }
-.post_featured.post_attachment {
-}
+
 .entry-caption {
 	text-align:center;
 	font-style:italic;
@@ -4899,10 +4898,7 @@ ul.instagram-pics li:before {
 .mobile_layout .footer_wrap .sc_layouts_menu > ul > li > a {
 	padding: 0.5em 1em;
 }
-.menu_footer_nav_area > ul > li.menu-item-has-children > a,
-.footer_wrap .sc_layouts_menu > ul > li.menu-item-has-children > a {
 
-}
 .mobile_layout .menu_footer_nav_area > ul > li.menu-item-has-children > a,
 .mobile_layout .footer_wrap .sc_layouts_menu > ul > li.menu-item-has-children > a {
 	padding-right:2em;
@@ -5605,7 +5601,7 @@ body .wpcf7 .dark_extra textarea:focus,
 	height: 9.6em;
 	min-height: 9.6em;
 }
-div.wpcf7-validation-errors {}
+
 
 .dark_extra + div.wpcf7-mail-sent-ok,
 .dark_extra + div.wpcf7-validation-errors {
@@ -6161,7 +6157,7 @@ ul[class*="trx_addons_list"]>li:before{
 .carousel-inner img{
 	max-height: 650px;
 }
-..sc_layouts_row_type_compact{
+.sc_layouts_row_type_compact{
 	padding: 0px;
 }
 /*------------------------------------------------------*/
