@@ -6155,6 +6155,9 @@ ul[class*="trx_addons_list"]>li:before{
 .scheme_dark .socials_wrap .social_item:hover .social_icon i, .scheme_dark .socials_wrap .social_item:hover .social_icon {
     color: #CECC12 !important;
 }
+.vc_tta-title-text{
+	font-weight: bold;
+}
 
 /*------------------------------------------------------*/
 /* RESPONSIVE
